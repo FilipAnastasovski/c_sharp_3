@@ -1,0 +1,7 @@
+C:\Users\FILIP\Desktop\Code Academy\c_sharp_homework\c_sharp_3\homework_3\ConsoleApp1\obj\Debug\Fastest.csprojAssemblyReference.cache
+C:\Users\FILIP\Desktop\Code Academy\c_sharp_homework\c_sharp_3\homework_3\ConsoleApp1\obj\Debug\Fastest.csproj.CoreCompileInputs.cache
+C:\Users\FILIP\Desktop\Code Academy\c_sharp_homework\c_sharp_3\homework_3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\FILIP\Desktop\Code Academy\c_sharp_homework\c_sharp_3\homework_3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\FILIP\Desktop\Code Academy\c_sharp_homework\c_sharp_3\homework_3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\FILIP\Desktop\Code Academy\c_sharp_homework\c_sharp_3\homework_3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\FILIP\Desktop\Code Academy\c_sharp_homework\c_sharp_3\homework_3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
